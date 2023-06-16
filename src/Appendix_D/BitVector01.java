@@ -1,6 +1,7 @@
 package Appendix_D;
 
 import java.util.Iterator;
+import java.util.Scanner;
 
 public class BitVector01 extends BitVectorBase implements Iterable{
     BitVector01(){super();}
